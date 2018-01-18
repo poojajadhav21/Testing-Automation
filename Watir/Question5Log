@@ -1,0 +1,4 @@
+# Logfile created on 2017-11-05 14:52:49 -0800 by logger.rb/53938
+I, [2017-11-05 14:52:53#7648]  INFO -- : Google search opened
+I, [2017-11-05 14:52:53#7648]  INFO -- : Entered keyword
+I, [2017-11-05 14:53:00#7648]  INFO -- : Test passed

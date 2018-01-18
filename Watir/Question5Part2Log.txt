@@ -1,0 +1,3 @@
+I, [2017-11-05 22:41:04#11176]  INFO -- : Google search opened
+I, [2017-11-05 22:41:04#11176]  INFO -- : Entered keyword
+I, [2017-11-05 22:41:08#11176]  INFO -- : Found image test passed
